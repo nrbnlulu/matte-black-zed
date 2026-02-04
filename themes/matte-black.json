@@ -79,7 +79,6 @@
 				"editor.invisible": "#8a8a8d33",
 				"editor.wrap_guide": "#333333",
 				"editor.active_wrap_guide": "#333333",
-				"editor.document_highlight.bracket_background": "#F59E0B17",
 				"editor.document_highlight.read_background": "#FBBF2417",
 				"editor.document_highlight.write_background": "#FBBF2417",
 				"editor.indent_guide": "#212121",
@@ -485,11 +484,6 @@
 						"font_weight": null
 					},
 					"punctuation.delimiter": {
-						"color": "#8A8A8D",
-						"font_style": null,
-						"font_weight": null
-					},
-					"punctuation.bracket": {
 						"color": "#8A8A8D",
 						"font_style": null,
 						"font_weight": null
